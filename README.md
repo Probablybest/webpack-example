@@ -1,4 +1,4 @@
-# positivus
+# example
 
 To install dependencies:
 
@@ -16,4 +16,10 @@ To build:
 
 ```bash
 pnpm run build
+```
+
+To start dev server:
+
+```bash
+pnpm run start
 ```
