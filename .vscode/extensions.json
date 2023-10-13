@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "luwenjiechn.nunjucks-vscode-snippets",
+        "csstools.postcss",
+        "editorconfig.editorconfig",
+        "eseom.nunjucks-template",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss"
+    ]
+}
